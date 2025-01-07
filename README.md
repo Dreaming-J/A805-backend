@@ -2,13 +2,14 @@
 
 | Stack | Application | Version |
 | :-: | :-: | :-: |
-| Java | OpenJDK 17 - Eclipse Temurin 17 | 17.0.13 |
+| Java | OpenJDK 17 - Eclipse Temurin | 17.0.13 |
 | Backend Framework | Spring Boot | 3.3.7 |
 
 ## Tool
 
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-
+<img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira">
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2">
 
 ## Git Convention
 
